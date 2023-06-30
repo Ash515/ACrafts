@@ -9,7 +9,7 @@ Software Suites for Various Sectors
 - HandsUp - Grivence Management system for university 
 
 ## Crafter(s) 
-- Ashwin Kumar R 
+- Ashwin Kumar R. 
 
 
 
