@@ -7,7 +7,8 @@ Software Suites for Various Sectors
 - Lend - Library Management System for Corporation 
 - SmartQ - Smart Canteen Management System for Institute
 - HandsUp - Grivence Management system for university
-- MonitorPlus - Domain Netwok Management System 
+- MonitorPlus - Domain Netwok Management System
+- Training OperationPlus - Training Management System
 
 ## Crafter(s) 
 - Ashwin Kumar R. 
