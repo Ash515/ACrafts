@@ -11,7 +11,7 @@ Software Suites for Various Sectors
 - Training OperationPlus - Training Management System
 
 ## Crafter(s) 
-- Ashwin Kumar R. 
+Ashwin Kumar R
 
 
 
