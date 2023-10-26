@@ -8,7 +8,7 @@ Software Suites for Various Sectors
 - SmartQ - Smart Canteen Management System for Institute
 - HandsUp - Grivence Management system for university
 - MonitorPlus - Domain Netwok Management System
-- Training OperationPlus - Training Management System
+- Training OperationPlus - Training Management System.
 
 ## Crafter(s) 
 Ashwin Kumar R
