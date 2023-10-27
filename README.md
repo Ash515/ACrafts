@@ -10,7 +10,7 @@ Software Suites for Various Sectors
 - MonitorPlus - Domain Netwok Management System
 - Training OperationPlus - Training Management System.
 
-## Crafter(s) 
+## Admin
 Ashwin Kumar R
 
 
